@@ -1,0 +1,11 @@
+File structure
+----------------------------------------------------
+
+The following are a list of files and their description:
+
+enron_raptor.csv - comma separated file containing 'From' and 'To' email address pairs
+KW_Assignment3_Enron_Report.pdf - final report for the assignment
+kw_enron_sna.py - full Python code 
+node_frequency.pdf - plot of node frequency distribution
+baseline_network.pdf - entire network containing all nodes
+ego_graph.pdf - subset network centered around Sara Shackleton and the nodes connected to her
